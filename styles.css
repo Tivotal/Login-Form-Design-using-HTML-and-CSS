@@ -14,7 +14,6 @@ body {
   min-height: 100vh;
   width: 100%;
   background: #222;
-  /* background: linear-gradient(27deg, #34495e 50%, #2c3e50 50%); */
 }
 
 .wrapper {
@@ -26,8 +25,6 @@ body {
   height: 390px;
   border: 1px solid #2980b9;
   border-radius: 50px;
-  /*   border-top-left-radius: 50px;
-  border-bottom-right-radius: 50px; */
 }
 
 .wrapper .avatar {
@@ -67,8 +64,6 @@ body {
   outline: none;
   border: 1px solid;
   border-radius: 10px;
-  /*   border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px; */
   font-size: 15px;
   margin-top: 30px;
   transition: 0.5s;
